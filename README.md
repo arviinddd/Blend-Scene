@@ -24,9 +24,11 @@ Git
 
 # Technical Overview
 ## SIFT (Scale-Invariant Feature Transform)
-Feature Detection and Description: Detects and describes local features in images to ensure they can be matched across different views.
+Feature Detection and Description: 
+Detects and describes local features in images to ensure they can be matched across different views.
 ## Homography
-Feature Matching and Image Transformation: Maps the corresponding features between different images, aligning them perfectly to produce a single composite image.
+Feature Matching and Image Transformation: 
+Maps the corresponding features between different images, aligning them perfectly to produce a single composite image.
 
 # Deployment
 The working of the project could be found be here https://blendscene-537c6de97d61.herokuapp.com/
