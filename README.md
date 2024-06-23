@@ -11,8 +11,11 @@ Accessible and Scalable: Available universally via Heroku for consistent perform
 
 # Technology Stack
 FastAPI: For efficient backend handling.
+
 OpenCV: Powers the core image processing capabilities.
+
 NumPy & Pillow: Supports image operations and transformations.
+
 Heroku: For hosting and deploying the application seamlessly.
 
 # Prerequisites
